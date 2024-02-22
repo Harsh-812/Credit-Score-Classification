@@ -3,7 +3,7 @@ Developed an advanced machine learning model to accurately classify individuals'
 
 ![gif](https://github.com/Harsh-812/Credit-Score-Classification/assets/135538639/bc7ada81-c3c3-49bb-a3ed-522ef417dc18)
 
-The jupyter notebook that has been attached is too large to view on git. Hence attached the gif above to show an instance of the data analysis (visualization). Please download the file to see the complete project.
+*(The jupyter notebook that has been attached is too large to view on git. Hence attached the gif above to show an instance of the data analysis (visualization). Please download the file to see the complete project)*
 
 ### Project Overview
 This project aims to classify individuals into three credit score tiers (Good, Standard, Poor) for banks and credit card companies, enabling these institutions to make informed decisions on loan approvals. The classification is based on various factors, including income, credit history, and loan details, which are crucial in assessing an individual's creditworthiness.
